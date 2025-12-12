@@ -19,13 +19,13 @@ body{
     font-family: Arial, sans-serif;
 }
 h1{
-    color: rgb(255, 0, 60);
+    color: rgb(0, 255, 60);
 }
 button{
     padding: 10px 20px;
     font-size: 16px;
     color: #fff;
-    background-color: rgb(255, 0, 60);
+    background-color: rgb(0, 255, 60);
     border: none;
     border-radius: 5px;
     cursor: pointer;
