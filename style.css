@@ -19,13 +19,13 @@ body{
     font-family: Arial, sans-serif;
 }
 h1{
-    color: rgb(238, 255, 0);
+    color: pink;
 }
 button{
     padding: 10px 20px;
     font-size: 16px;    
     color: #fff;
-    background-color: rgb(255, 204, 0);
+    background-color:pink;
     border: none;
     border-radius: 5px;
     cursor: pointer;
